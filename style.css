@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2, h3 {
+    margin-top: 40px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.container {
+    width: 1200px;
+}
